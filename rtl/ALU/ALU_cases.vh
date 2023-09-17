@@ -1,0 +1,15 @@
+`define ADD  4'b0000;
+`define SUB  4'b0001;
+`define MUL  4'b0010;
+`define DIV  4'b0011;
+`define AND  4'b0100;
+`define OR   4'b0101;
+`define NAND 4'b0110;
+`define NOR  4'b0111;
+`define XOR  4'b1000;
+`define XNOR 4'b1001;
+`define EQL  4'b1010;
+`define GRT  4'b1011;
+`define LESS 4'b1100;
+`define SHR 4'b1101;
+`define SHL 4'b1110;
